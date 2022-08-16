@@ -1,0 +1,5 @@
+Hi guys this project is an API based project and this is my first API based application and I'm really glad i made this because this project really help me to understand the core concepts of API and DOM manipulation. 
+Well as we can still add many things to it but I had only add normal functionality like trending, Popular movies and search functionality to it. 
+
+
+So ya that's it for this project.
